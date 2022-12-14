@@ -1,0 +1,12 @@
+.first
+{
+	width:500px;
+	margin: 25px auto;
+}
+.second
+{
+	border: 12px solid blue;
+	padding:40px;
+	margin: auto;
+	width:400px;
+}

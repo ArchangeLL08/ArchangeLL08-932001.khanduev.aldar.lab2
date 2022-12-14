@@ -1,0 +1,57 @@
+*
+{
+	margin:0;
+	margin-left:3px;
+}
+body
+{
+	color:white;
+}
+.one
+{
+	background-color:rgb(138,43,226);
+	position:static;
+	width:150px;
+	height:100px;
+}
+.two
+{
+	background-color:rgb(139,0,0);
+	position:relative;
+	width:150px;
+	height:100px;
+}
+.three
+{
+	background-color:rgb(205,133,63);
+	position:relative;
+	width:150px;
+	height:100px;
+	left:30px;
+	top:-30px;
+}
+.four
+{
+	background-color:rgb(205,92,92);
+	position:relative;
+	width:500px;
+	height:350px;
+}
+.five
+{
+	background-color:rgb(75,0,130);
+	position:absolute;
+	width:300px;
+	height:200px;
+	right:0;
+	top:100px;
+}
+.six
+{
+	background-color:rgb(34,139,34);
+	position:fixed;
+	right:0;
+	bottom:0;
+	width:100px;
+	height:100px;
+}
